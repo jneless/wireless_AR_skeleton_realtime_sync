@@ -23,7 +23,7 @@ Although many applications could reconstruct human skeletons from 2D images, the
 
 * Apple A12 Bionic (or higher)
 * Unity 2020.1
-* BestHttp 3.0
+* Best Http/2.0
 * Node 12.18
 * Local router or Azure app service (for Mid-server)
 * Repo of [Unity ARFoundation Example](https://github.com/Unity-Technologies/arfoundation-samples)
