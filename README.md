@@ -149,11 +149,13 @@ git clone <this repo>
 
 delete arfoundation-samples/Assets/Scenes
 
-copy Besthttp, Myscript and Scenes <this repo>/Assets then paste in arfoundation-samples/Assets 
+copy Besthttp, Myscript and Scenes under <this repo>/Assets then paste in arfoundation-samples/Assets 
 
 replace arfoundation-samples/Assets/Scripts/BoneController.cs by <this repo>/Assets/Scripts/BoneController.
 
-open project by Unity and mark Robots with Tag "MainLogic"
+open project by Unity and mark "Myscript/MainLogic.cs" with Unity-Tag "MainLogic"
+
+Find the Robot (in Scene) and mark Robot with Unity-Tag "robot"
 
 re-write server ip in mainlogic.cs
 
