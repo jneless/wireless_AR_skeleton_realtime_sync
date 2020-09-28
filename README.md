@@ -162,7 +162,7 @@ re-write server ip in mainlogic.cs
 Export Scenes as IOS program and deploy on devices by XCode
 
 ARAncho.unity is receiving-device program
-HumanBodyTracking3D.unity is receiving-device program
+HumanBodyTracking3D.unity is collecting-device program
 
 ```
 
