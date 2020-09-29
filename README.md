@@ -1,7 +1,5 @@
 #  Real-time synchronize human movement in augmented reality
 
-Powered by Jialin Li, Dr. Fenghe Hu and Dr. Yansha Deng.
-
 Jialin Li: jialin.li.kcl@outlook.com
 
 ## Overview
